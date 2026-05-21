@@ -52,7 +52,7 @@ O projeto foi implementado em Python em um fluxo modular estruturado nas seguint
 ### 4.1 Perfil de Conectividade Local: Distribuição de Grau
 O Grau ($k$) de um nó representa a quantidade de ruas que se conectam em um determinado cruzamento.
 
-[INSERIR IMAGEM AQUI: grafico_distribuicao_grau.png]
+![Gráfico de distribuição dos nós](imagens/grafico_distribuicao_grau.png)
 
 #### 💬 Comentário Analítico da Imagem:
 *(Substitua este texto pela sua análise do gráfico. Destaque o domínio do Grau 3, explicando como a predominância de entroncamentos em "T" limita as opções de conversão imediata do motorista, e analise o Grau 1 como o reflexo físico de ruas sem saída e acessos restritos de condomínios residenciais que empurram o tráfego para a malha principal dos 4 bairros).*
@@ -60,7 +60,8 @@ O Grau ($k$) de um nó representa a quantidade de ruas que se conectam em um det
 ### 4.2 Distribuição de Gargalos e Centros Estruturais (Histogramas)
 O gráfico combinado contém os histogramas de *Betweenness Centrality* e *Closeness Centrality*:
 
-[INSERIR IMAGEM AQUI: histogramas_centralidade.png]
+![Gráfico de distribuição dos nós](imagens/histogramas_centralidade.png)
+
 
 #### 💬 Comentário Analítico da Imagem:
 *(Substitua este texto pelo comentário dos histogramas. Explique a curva em "L" (cauda longa) do Betweenness, evidenciando que mais de 90% das ruas da macro-região têm score zero (uso estritamente local), enquanto menos de 5% concentram scores altíssimos (gargalos). Comente também a curva em sino do Closeness, que mapeia a homogeneidade da distância média geométrica dos cruzamentos em direção ao centro de gravidade do sistema viário integrado).*
