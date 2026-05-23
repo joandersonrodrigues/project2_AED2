@@ -12,7 +12,7 @@ O objetivo central é modelar e interpretar a infraestrutura viária de uma regi
 * Curso: Engenharia de Computação (UFRN)
 
 ## 🎥 Vídeo de Apresentação e Defesa Técnico-Analítica
-[🔗 Clique aqui para assistir à apresentação completa no Loom](https://www.loom.com/share/seu-link-aqui-do-loom)
+[🔗 Clique aqui para assistir à apresentação completa no Youtube](https://youtu.be/QjcNNFrPE8U)
 
 ---
 
